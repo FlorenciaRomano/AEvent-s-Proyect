@@ -8,3 +8,4 @@ Las tarjetas cuentan con un boton de "See More" donde se muestras los detalles, 
 Tambien encontramos Filtros por categorías y un buscador que es funcional. 
 Al igual que las cards, los datos de las tablas de "Stats" están proporcionados a través de una API,  y haciendo ejercicios de comparación logramos plasmar 
 los resultados a través de JavaScript, sin tocar el HTML.
+El estilo está hecho todo con Bootstrap. Solo usé CSS para cosas especificas.

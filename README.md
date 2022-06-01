@@ -1,4 +1,4 @@
-# AEvent-s-Proyect
+# AEvent-s-Proyect Resposive
 Este es el proyecto final del modulo de Java Script. [LEER READ ME]
 Este es el proyecto final del modulo de Java Script. Cuenta con varias páginas (Home, UpComing Events, Contact y Stats).
 para empezar tiene una barra de navegacion despregable. 
